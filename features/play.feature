@@ -12,3 +12,34 @@ Feature: share Track
       | url                                                                                 |
       | "https://soundcloud.com/equinox541/spring-fling-mix#t=0:01"                         |
       
+    Scenario Outline: Direct share
+      Given I share the track <url>
+      Then I wait
+      
+      Examples:
+      | url                                                                                 |
+      | "https://soundcloud.com/equinox541/spring-fling-mix#t=0:01"                         |
+      
+    Scenario Outline: Direct share
+      Given I share the track <url>
+      Then I wait
+      
+      Examples:
+      | url                                                                                 |
+      | "https://soundcloud.com/equinox541/spring-fling-mix#t=0:01"                         |
+      
+    Scenario Outline: Direct share
+      Given I share the track <url>
+      Then I wait
+      
+      Examples:
+      | url                                                                                 |
+      | "https://soundcloud.com/equinox541/spring-fling-mix#t=0:01"                         |
+      
+    Scenario Outline: Direct share
+      Given I share the track <url>
+      Then I wait
+      
+      Examples:
+      | url                                                                                 |
+      | "https://soundcloud.com/equinox541/spring-fling-mix#t=0:01"                         |
