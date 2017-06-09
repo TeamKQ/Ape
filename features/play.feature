@@ -9,37 +9,88 @@ Feature: share Track
       Then I wait
       
       Examples:
-      | url                                                                                 |
-      | "https://soundcloud.com/equinox541/spring-fling-mix#t=0:01"                         |
+      | url                                                                                                        |
+      | "https://soundcloud.com/equinox541/spring-fling-mix#t=0:01"                                                |
+      | "https://soundcloud.com/konquestnow/on-my-own-kutt-kalhoun-ft-konquest-verseborn-x-wreck-the-rebel#t=0:01" |
       
     Scenario Outline: Direct share
       Given I share the track <url>
       Then I wait
       
       Examples:
-      | url                                                                                 |
-      | "https://soundcloud.com/equinox541/spring-fling-mix#t=0:01"                         |
+      | url                                                                                                        |
+      | "https://soundcloud.com/equinox541/spring-fling-mix#t=0:01"                                                |
+      | "https://soundcloud.com/konquestnow/on-my-own-kutt-kalhoun-ft-konquest-verseborn-x-wreck-the-rebel#t=0:01" |
+     
+    Scenario Outline: Direct share
+      Given I share the track <url>
+      Then I wait
+      
+      Examples:
+      | url                                                                                                        |
+      | "https://soundcloud.com/equinox541/spring-fling-mix#t=0:01"                                                |
+      | "https://soundcloud.com/konquestnow/on-my-own-kutt-kalhoun-ft-konquest-verseborn-x-wreck-the-rebel#t=0:01" |
       
     Scenario Outline: Direct share
       Given I share the track <url>
       Then I wait
       
       Examples:
-      | url                                                                                 |
-      | "https://soundcloud.com/equinox541/spring-fling-mix#t=0:01"                         |
+      | url                                                                                                        |
+      | "https://soundcloud.com/equinox541/spring-fling-mix#t=0:01"                                                |
+      | "https://soundcloud.com/konquestnow/on-my-own-kutt-kalhoun-ft-konquest-verseborn-x-wreck-the-rebel#t=0:01" |
+     
+    Scenario Outline: Direct share
+      Given I share the track <url>
+      Then I wait
+      
+      Examples:
+      | url                                                                                                        |
+      | "https://soundcloud.com/equinox541/spring-fling-mix#t=0:01"                                                |
+      | "https://soundcloud.com/konquestnow/on-my-own-kutt-kalhoun-ft-konquest-verseborn-x-wreck-the-rebel#t=0:01" |
       
     Scenario Outline: Direct share
       Given I share the track <url>
       Then I wait
       
       Examples:
-      | url                                                                                 |
-      | "https://soundcloud.com/equinox541/spring-fling-mix#t=0:01"                         |
+      | url                                                                                                        |
+      | "https://soundcloud.com/equinox541/spring-fling-mix#t=0:01"                                                |
+      | "https://soundcloud.com/konquestnow/on-my-own-kutt-kalhoun-ft-konquest-verseborn-x-wreck-the-rebel#t=0:01" |
+     
+    Scenario Outline: Direct share
+      Given I share the track <url>
+      Then I wait
+      
+      Examples:
+      | url                                                                                                        |
+      | "https://soundcloud.com/equinox541/spring-fling-mix#t=0:01"                                                |
+      | "https://soundcloud.com/konquestnow/on-my-own-kutt-kalhoun-ft-konquest-verseborn-x-wreck-the-rebel#t=0:01" |
       
     Scenario Outline: Direct share
       Given I share the track <url>
       Then I wait
       
       Examples:
-      | url                                                                                 |
-      | "https://soundcloud.com/equinox541/spring-fling-mix#t=0:01"                         |
+      | url                                                                                                        |
+      | "https://soundcloud.com/equinox541/spring-fling-mix#t=0:01"                                                |
+      | "https://soundcloud.com/konquestnow/on-my-own-kutt-kalhoun-ft-konquest-verseborn-x-wreck-the-rebel#t=0:01" |
+     
+    Scenario Outline: Direct share
+      Given I share the track <url>
+      Then I wait
+      
+      Examples:
+      | url                                                                                                        |
+      | "https://soundcloud.com/equinox541/spring-fling-mix#t=0:01"                                                |
+      | "https://soundcloud.com/konquestnow/on-my-own-kutt-kalhoun-ft-konquest-verseborn-x-wreck-the-rebel#t=0:01" |
+      
+    Scenario Outline: Direct share
+      Given I share the track <url>
+      Then I wait
+      
+      Examples:
+      | url                                                                                                        |
+      | "https://soundcloud.com/equinox541/spring-fling-mix#t=0:01"                                                |
+      | "https://soundcloud.com/konquestnow/on-my-own-kutt-kalhoun-ft-konquest-verseborn-x-wreck-the-rebel#t=0:01" |
+     
