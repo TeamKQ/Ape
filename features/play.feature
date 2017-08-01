@@ -10,5 +10,5 @@ Feature: Share Track
       
       Examples:
       | url                                                                                                       |
-      | "https://soundcloud.com/konquestnow/verseborn-ft-smooth-da-truth-stressed-out#t=0:01"                     |
+      | "http://konquestnow.com/release/stressed-out-verseborn-ft-smooth-da-truth/"                     |
       
