@@ -27,6 +27,8 @@ before_script:
 
 script: "bundle exec rake play"
 
+dist: precise
+
 notifications:
   slack:
     rooms:
