@@ -10,5 +10,5 @@ Feature: share Track
       
       Examples:
       | url                                                                                 |
-      | ""                                                                                  |
+      | "http://konquestnow.com/release/stressed-out-verseborn-ft-smooth-da-truth/"         |
      
