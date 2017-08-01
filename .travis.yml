@@ -1,7 +1,7 @@
 sudo: required
 
 addons:
-  firefox: latest
+  firefox: "30.0"
     
 language: ruby
 
