@@ -10,5 +10,5 @@ Feature: share Track
       
       Examples:
       | url                                                                                          |
-      | ""                                       |
+      | "http://konquestnow.com/release/nop-konquest-ft-stp-j-morgan/"                               |
       
