@@ -9,6 +9,6 @@ Feature: share Track
       Then I wait
       
       Examples:
-      | url                                                                                          |
-      | "http://konquestnow.com/release/nop-konquest-ft-stp-j-morgan/"                               |
-      
+      | url                                                            |
+      | "http://konquestnow.com/release/nop-konquest-ft-stp-j-morgan/" |
+      | "http://konquestnow.com/release/tree-house-wreck-the-rebel/"   |
