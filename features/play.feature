@@ -13,6 +13,7 @@
       | "http://konquestnow.com/release/nop-konquest-ft-stp-j-morgan/" |
       | "http://konquestnow.com/release/tree-house-wreck-the-rebel/"   |
       | "http://konquestnow.com/release/inside-tech-n9ne-x-verseborn/" |
+      | "http://konQuestNow.com/release/wild-out-verseborn/"           |
 
     Scenario Outline: Direct share
       Given I share the track <url>
@@ -23,6 +24,7 @@
       | "http://konquestnow.com/release/nop-konquest-ft-stp-j-morgan/" |
       | "http://konquestnow.com/release/tree-house-wreck-the-rebel/"   |
       | "http://konquestnow.com/release/inside-tech-n9ne-x-verseborn/" |
+      | "http://konQuestNow.com/release/wild-out-verseborn/"           |
 
     Scenario Outline: Direct share
       Given I share the track <url>
@@ -33,6 +35,7 @@
       | "http://konquestnow.com/release/nop-konquest-ft-stp-j-morgan/" |
       | "http://konquestnow.com/release/tree-house-wreck-the-rebel/"   |
       | "http://konquestnow.com/release/inside-tech-n9ne-x-verseborn/" |
+      | "http://konQuestNow.com/release/wild-out-verseborn/"           |
 
     Scenario Outline: Direct share
       Given I share the track <url>
@@ -43,6 +46,7 @@
       | "http://konquestnow.com/release/nop-konquest-ft-stp-j-morgan/" |
       | "http://konquestnow.com/release/tree-house-wreck-the-rebel/"   |
       | "http://konquestnow.com/release/inside-tech-n9ne-x-verseborn/" |
+      | "http://konQuestNow.com/release/wild-out-verseborn/"           |
 
     Scenario Outline: Direct share
       Given I share the track <url>
@@ -53,3 +57,4 @@
       | "http://konquestnow.com/release/nop-konquest-ft-stp-j-morgan/" |
       | "http://konquestnow.com/release/tree-house-wreck-the-rebel/"   |
       | "http://konquestnow.com/release/inside-tech-n9ne-x-verseborn/" |
+      | "http://konQuestNow.com/release/wild-out-verseborn/"           |
